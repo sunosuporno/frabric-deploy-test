@@ -28,7 +28,7 @@
             href="#"
             class="px-3 md:px-5 py-1.5 md:py-3 border-2 border-[#5A50D8] bg-[#1F1D25] rounded-sm ml-3"
             >
-            <router-link :to="{ name: 'Work In Progress'}" target = "_blank">
+            <router-link :to="{ name: 'Work In Progress'}">
               Marketplace
             </router-link></a
           >

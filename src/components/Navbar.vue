@@ -58,7 +58,6 @@
               <router-link
                 :to="{ name: 'Work In Progress'}"
                 class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-                target="_blank"
                 >Buy</router-link
               >
               <a
@@ -104,7 +103,6 @@
               <router-link
                 :to="{ name: 'Work In Progress'}"
                 class="block px-4 py-2 mt-2 text-sm font-semibold bg-transparent rounded-lg hover:text-gray-900 focus:text-gray-900 hover:bg-gray-200 focus:bg-gray-200 focus:outline-none focus:shadow-outline"
-                target="_blank"
                 >Governance</router-link
               >
             </div>
@@ -112,7 +110,6 @@
         </div>
         <router-link
           :to="{ name: 'Work In Progress'}"
-          target = "_blank"
           class="px-6 xl:px-8 py-3 bg-[#5A50D8] text-white rounded-md"
           >Marketplace</router-link
         >
